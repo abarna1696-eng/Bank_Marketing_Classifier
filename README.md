@@ -1,3 +1,21 @@
+[Bank_Marketing_Classifier.zip](https://github.com/user-attachments/files/31342804/Bank_Marketing_Classifier.zip)
+[bank-additional-full.csv](https://github.com/user-attachments/files/31342796/bank-additional-full.csv)
+<img width="1408" height="486" alt="16_temporal_drift" src="https://github.com/user-attachments/assets/d85506d7-ef15-4dc5-8684-5aeb1710b652" />
+<img width="970" height="640" alt="15_permutation_importance" src="https://github.com/user-attachments/assets/d1bd57fb-c6ea-45dc-ac21-1e78012e73ea" />
+<img width="970" height="641" alt="14_tree_importances" src="https://github.com/user-attachments/assets/98cad178-720a-452b-a14c-19fc2f174797" />
+<img width="2182" height="971" alt="13_decision_tree" src="https://github.com/user-attachments/assets/4d13832c-1914-4519-8885-81bc96ef5717" />
+<img width="1080" height="970" alt="12_logistic_coefficients" src="https://github.com/user-attachments/assets/6c056413-61ba-44ae-a4ae-405a1f2327e7" />
+<img width="1520" height="540" alt="11_cumulative_gains" src="https://github.com/user-attachments/assets/08458684-50d5-4a41-a8c3-732fe0fb1479" />
+<img width="1138" height="540" alt="10_confusion_matrices" src="https://github.com/user-attachments/assets/278f0f75-bc1c-4a07-aca7-c2bb8a590437" />
+<img width="1520" height="594" alt="09_roc_pr_curves" src="https://github.com/user-attachments/assets/b5e8515d-0793-4ccc-90e8-03388a878e81" />
+<img width="1522" height="495" alt="08_model_comparison" src="https://github.com/user-attachments/assets/38b1531c-0754-4517-87cf-0d7bf2c5cf08" />
+<img width="971" height="586" alt="07_job_confidence_intervals" src="https://github.com/user-attachments/assets/bbb62b0e-b343-4fde-b807-058f173f5eb0" />
+<img width="870" height="750" alt="06_correlation_heatmap" src="https://github.com/user-attachments/assets/d7bbb9a5-edde-4c3a-bd03-5b787d314a18" />
+<img width="1520" height="519" alt="05_timing_and_history" src="https://github.com/user-attachments/assets/5d462355-1f4e-47a6-bfa5-96e3d585460c" />
+<img width="1522" height="1726" alt="04_categorical_conversion" src="https://github.com/user-attachments/assets/d9b1bd54-7c93-420b-a874-658dec21975c" />
+<img width="1522" height="864" alt="03_numeric_by_outcome" src="https://github.com/user-attachments/assets/8e9e31c6-a526-401a-a0ee-6663137f9c96" />
+<img width="1519" height="1081" alt="02_numeric_distributions" src="https://github.com/user-attachments/assets/b7c66467-5b94-4c41-9ac5-b111704f8b96" />
+<img width="1190" height="433" alt="01_class_balance" src="https://github.com/user-attachments/assets/7a3fbcb8-8b59-4f03-be4c-aff69e5d978f" />
 # Bank Marketing Campaign — Comparing Classifiers
 
 Comparing k-Nearest Neighbors, Logistic Regression, Decision Trees and Support Vector Machines on
